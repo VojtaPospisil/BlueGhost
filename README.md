@@ -21,3 +21,4 @@ Celkový projekt zabral okolo 2 hodin.
 - spuštění příkazu npm install
 - spuštění příkazu php artisan key:generate
 - nastavení jména databáze v souboru .env pole DB_DATABASE=
+- spuštění příkazu php artisan migrate pro vytvoření tabulek
